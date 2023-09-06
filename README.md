@@ -1,4 +1,5 @@
-## knapsack_problem
+# knapsack_problem
+
 
 # ENERGY COSUMPTION OF HOUSEHOLDS APPPLIANCES
 #### First of all to be able to achieve a result for the problem the householders have to be equipped with technologies. The devices are provided to inform the consumers about their consumption pattern by showing or sending different kinds of consumption information to them. This kind of information is provided to assist them in making decisions about altering their consumption behavior or to urge them to modify their life style during peak hours. We propose that the energy home controllers should offer preferred and optimal scenarios to support end-users when making a decision about their consumption. Effective scenarios should emerge from consumer’s life style and preferences. In this paper, we will apply AHP methodology to quantify the consumer’s preferences for using appliances during peak periods when the price has increased, and use the Knapsack problem approach to achieve the optimal solution for managing the appliances. With this approach, not only will the cost of electricity not escalate during peak hours, but also user preferences, satisfaction and minimum change to current life style will be considered. (Omid Ameri Sianaki, Omar Hussain and Azadeh Rajabian Tabesh, 2010)
